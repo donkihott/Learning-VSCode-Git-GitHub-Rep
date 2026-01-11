@@ -1,0 +1,17 @@
+Introduction to GitHub
+https://github.com/tjuminyura-rgb/skills-introduction-to-github/commits/main/README.md
+
+Is repository
+
+Step 1: Create a branch
+# the main branch will be unchanged when changing another branch
+It is a parallel version of your repository
+
+Step 2: Commit a file
+# is a set of changes to the files and folders in your project. A commit exists in a branch
+
+Step 3: Open a pull request
+# The pull request shows the changes in your branch to other people and allows people to accept, reject, or suggest additional changes to your branch. 
+
+Step 4: Merge your pull request
+# adds the changes in your pull request and branch into the `main` branch.

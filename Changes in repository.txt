@@ -1,0 +1,11 @@
+After changes on VSCode (PC):
+On VSCode:
+Button: 'Commit', 'Sync Changes'
+or Terminal:
+git add .
+git commit -m "Changes by Teminal Comands"
+git push
+
+After changes on GitHub:
+'Commit changes'
+update VSCode! near 'main' branch

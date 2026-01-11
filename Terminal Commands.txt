@@ -1,0 +1,27 @@
+cd ..  - На рівень вище шляху
+git init - Initialized folder to Git repository
+git add . - all files of folder (or Name of file instead '.')
+
+git commit -m "first commit"
+git branch -M main # change Name of branch from 'master' to 'main'
+git remote add origin https://(adress of GitHub repository)
+git push -u origin main
+
+After Changes:
+to SAVE!!!
+git add .
+git commit -m "Changes by Teminal Comands" # in '...' coment of commit
+git push # send to GitHub
+
+Undo last commit # (from settings) file to Staged Changes
+git reset . # if was git added (returns from Staged Changes)
+git checkout -- . # revert changes to the previous commit (. -all files / or Name of file instead '.'))
+
+BRANCH
+git branch
+git branch -v # properties оf changes
+git branch Name of new Branch # Create new branch specified Name
+git checkout NewBranch # transition to another branch
+
+git checkout main
+git merge Branch_Name

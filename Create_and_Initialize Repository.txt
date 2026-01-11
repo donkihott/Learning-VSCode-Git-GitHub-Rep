@@ -1,0 +1,24 @@
+- Create a folder on PC
+- VSCode - Open folder
+# Changes to a file on your PC change it in VSCode and vice versa
+
+GIT
+- Sourse Control (Ctrl+Shift+G) button: 'Initialize Repository'
+or Teminal:
+git init - Initialized empty Git repository
+# after Initialize Rep. it become a Git Project
+
+GitHub
+- create a new repository
+Teminal:
+git add . - all files of folder
+git commit -m "first commit"
+git branch -M main # change Name of branch from 'master' to 'main'
+git remote add origin https://(adress of GitHub repository)
+git push -u origin main
+
+
+
+
+or:
+- Sourse Control (Ctrl+Shift+G) button: 'Publish to GitHub'
